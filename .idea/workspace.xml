@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4177a4e-8571-44df-9f9d-b7f8756a1813" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1lIHWOPG7N6ktuiRyybv8RipPGW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/blueprints/users" />
+      <recent name="$PROJECT_DIR$/app/blueprints" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/blueprints/users" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4177a4e-8571-44df-9f9d-b7f8756a1813" name="Default Changelist" comment="" />
+      <created>1607277715906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607277715906</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1099" y="184" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607283190643">
+      <screen x="-1680" y="-48" width="1680" height="979" />
+    </state>
+    <state x="-1099" y="184" key="#com.intellij.fileTypes.FileTypeChooser/-1680.-48.1680.979/0.23.1280.777@-1680.-48.1680.979" timestamp="1607283190643" />
+    <state x="-1030" y="98" key="#com.intellij.ide.util.MemberChooser" timestamp="1607282419119">
+      <screen x="-1680" y="-48" width="1680" height="1027" />
+    </state>
+    <state x="-1030" y="98" key="#com.intellij.ide.util.MemberChooser/-1680.-48.1680.1027/0.23.1280.738@-1680.-48.1680.1027" timestamp="1607282419119" />
+    <state x="-1105" y="129" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607295534084">
+      <screen x="-1680" y="-48" width="1680" height="1027" />
+    </state>
+    <state x="-1105" y="129" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1680.-48.1680.1027/0.23.1280.737@-1680.-48.1680.1027" timestamp="1607295534084" />
+    <state x="-1178" y="163" key="search.everywhere.popup" timestamp="1607282354124">
+      <screen x="-1680" y="-48" width="1680" height="1027" />
+    </state>
+    <state x="-1178" y="163" key="search.everywhere.popup/-1680.-48.1680.1027/0.23.1280.738@-1680.-48.1680.1027" timestamp="1607282354124" />
+  </component>
+</project>
